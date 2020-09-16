@@ -1,0 +1,10 @@
+redis==3.3.4
+requests==2.23.0
+pandas==1.0.5
+joblib==0.13.2
+rq==1.1.0
+Flask==1.1.1
+gunicorn==19.9.0
+scikit_learn==0.23.1
+joblib==0.13.2
+numpy==1.16.2

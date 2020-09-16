@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  iris:
+    build: .
+    image: iris:1.0
+    container_name: iris
+    ports:
+      - 5000:5000
+    extra_hosts:
+        - "app-redis:172.22.0.1"
+    command: /usr/src/app/start.sh
