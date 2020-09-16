@@ -8,5 +8,5 @@ services:
     ports:
       - 5000:5000
     extra_hosts:
-        - "app-redis:172.22.0.1"
+        - "app-redis:0.0.0.1"
     command: /usr/src/app/start.sh
