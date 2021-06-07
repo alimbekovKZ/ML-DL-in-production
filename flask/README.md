@@ -2,5 +2,6 @@
 
 Example rest api code on flask
 
-[Medium Post in Russian](https://bit.ly/3mtSixG) Medium Post in English in Progress...
+- [Post in Russian](https://alimbekov.com/machine-learning-flask-rest-api/) 
+- [Post in English](https://alimbekov.com/en/deploying-machine-learning-models-flask-and-rest-api/)
 
